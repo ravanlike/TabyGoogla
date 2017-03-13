@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_call">Call</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_sms">SMS</string>
+    <string name="label_language">Language</string>
+    <string name="label_settings">Settings</string>
+    <string name="mail_subject">Employment opportunity</string>
+    <string name="tab_experience">Experience</string>
+    <string name="tab_general">General</string>
+    <string name="tab_other">Cover Letter</string>
+    <string name="action_mail">E-Mail</string>
+    <string name="action_language">Language</string>
+    <string name="action_exit">Exit</string>
+    <string name="lang_speach">Speach</string>
+    <string name="lang_writing">Writing</string>
+    <string name="separator_education">Education</string>
+    <string name="separator_languages">Languages</string>
+    <string name="separator_skills">Skills</string>
+    <string name="separator_references">References</string>
+    <string name="lang_english">English</string>
+    <string name="lang_polish">Polish</string>
+    <string name="lang_swedish">Swedish</string>
+    <string name="edu_univ">Cracow University of\u00A0Economics</string>
+    <string name="edu_major">Finance and Accounting</string>
+    <string name="edu_minor">2010 - 2013: Bachelor degree</string>
+    <string name="skill_1">Visual Basic for Applications – Advanced</string>
+    <string name="skill_2">Java- Basic</string>
+    <string name="skill_3">MS Office (especially MS Excel and Access)</string>
+    <string name="skill_4">Bloomberg and Reuters terminals</string>
+    <string name="skill_5">Ability to work under pressure of time</string>
+    <string name="skill_6">Strong analytical skills</string>
+    <string name="skill_7">Teamwork skills</string>
+    <string name="skill_8">Fast learner</string>
+    <string name="skill_9">Driving license B</string>
+    <string name="skill_10">Java - Basic.</string>
+    <string name="gen_tel">Telephone:</string>
+    <string name="gen_mail">E-Mail Address:</string>
+    <string name="ref_role_1">Direct manager, Senior Associate</string>
+    <string name="ref_role_2">Indirect manager, Officer</string>
+    <string name="ref_role_3">Indirect manager, Senior Associate</string>
+    <string name="action_linkedin">LinkedIn recommendations</string>
+    <string name="exp_resp_4_1">Participating in team and department wide projects (mostly as VBA developer)</string>
+    <string name="exp_resp_4_2">Preparing accuracy and timelines reports for senior management and oversight</string>
+    <string name="exp_resp_4_3">Covering technical side of transformation to paperless business</string>
+    <string name="exp_resp_4_4">Assigning responsibilities to team members and ensuring team effectiveness during supervisor absence</string>
+    <string name="exp_resp_3_1">Valuation of shares, bonds, futures, options using Bloomberg, Reuters or IDC</string>
+    <string name="exp_resp_3_2">Verify valuations made by other employees</string>
+    <string name="exp_resp_3_3">Developing and implementing tools made to improve process by time spent and risk reduction</string>
+    <string name="exp_resp_3_4">Resolving clients and fund accountants queries regarding pricing</string>
+    <string name="exp_resp_3_5">Teaching less experienced staff with business process and additional matters</string>
+    <string name="exp_resp_2_1">Entering cost documents, banks statements, fixed assets to accounting software.</string>
+    <string name="exp_resp_2_2">Account for employee’s advances and accounting records</string>
+    <string name="exp_resp_2_3">Aligning accounting documentation</string>
+    <string name="exp_resp_1_1">Preparing records and assignments of received documents</string>
+    <string name="exp_resp_1_2">Checking validity of received tax statement corrections</string>
+    <string name="exp_resp_1_3">Registration and processing forms sent by outer institutions (i.e. Social Insurance Agency)</string>
+    <string name="exp_comp_1">Tax Office in Żywiec</string>
+    <string name="exp_comp_2">Accounting office BRMS sp. z o.o.</string>
+    <string name="exp_comp_3">State Street Bank GmbH</string>
+    <string name="exp_comp_4">State Street Bank GmbH</string>
+    <string name="exp_role_3">Pricing Analyst (associate 1)</string>
+    <string name="exp_role_4">Senior pricing Analyst (associate 2)</string>
+    <string name="exp_role_2">Intern</string>
+    <string name="exp_role_1">Intern</string>
+    <string name="cover_letter">Dear Sir or Madam,\n\n\t
+I am currently looking for career opportunities in financial sector, and if there is such option I would gladly discuss with you, possibility of me joining your company.\n\n\t
+I\'ve started working for State Street Bank just after finishing my studies on Cracow University of Economics. Because I\'ve been interested in computers since kid, very quickly I\'ve been considered as go-to person in case of any hardware/software problems and my team members in most cases preferred to ask me for help before opening ticket for IT dept. I really like making my and others life easier, that\'s why, since my very first months in State Street I have been creating macros and tools aiming in reduction of operational risk and time spent.\n\n\t
+Due to my gained skills, will to develop and volunteer in department affairs, I\'ve been taking part in projects affecting whole department (~120 people). Thanks to that I\'ve opportunity to take part in projects initiation, planning, development and implementation. I am eager to learn anything that may improve work quality. I\'ve gained my supervisor\'s trust and few times represented our team/department on meetings with internal or external auditors (EY).\n\n\t
+I really like working on large data, that\'s why I was responsible for preparing reports for senior management and oversight (UK\'s branch officers), basing on data gathered daily regarding every task of every client in every team within department.\n\n\t
+Another thing I enjoyed in my previous role was VBA development. As my skills grown, supervisor or officer assigned me to more challenging projects. In last months as senior pricing analyst, up to 80% of my daily agenda was reserved for programming. If you are reading this letter between 6 A.M. and 8 P.M. CET, someone surly at this moment is using tool/solution I made. Currently I\'m learning Java, thinking about VB .NET in future, but I can switch to whatever language that may be beneficial for your company.\n\n
+Previously I had two internships, in Accounting office and Polish Skatteverket. In both I got a reputation of being person who is reliable, scrupulous and carefully doing its tasks also my creativity in problem solving and ability to cooperate with other employees have been noticed.\n\n\t
+For recommendations on LinkedIn website please check option in menu.\n\n\t
+I\'ve come to Sweden in August this year, my Swedish improves every day however still requires some time to be fluent. I strongly believe that working for your organization can bring me more opportunities to develop myself. Basing on brief description of my previous experience I think I might be valuable asset within your company. In that regard, I would appreciate opportunity to meet with you and discuss about my qualifications and possibility to join you organization. Should you require any additional information, please do not hesitate to contact me.\n\n
+Yours faithfully,\n
+Marek Pasierbek</string>
+</resources>

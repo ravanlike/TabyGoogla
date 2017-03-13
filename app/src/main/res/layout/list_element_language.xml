@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:text="lang_name"
+        android:layout_width="match_parent"
+        android:layout_height="32dp"
+        android:textSize="24dp"
+        android:gravity="center"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:id="@+id/lang_name_text" />
+
+    <ImageView
+        android:layout_width="@dimen/rating_icon_size"
+        android:layout_height="@dimen/rating_icon_size"
+        app:srcCompat="@drawable/ic_rating_empty"
+        android:layout_below="@+id/lang_name_text"
+        android:layout_alignParentStart="true"
+        android:id="@+id/lang_rating_1_1" />
+
+    <ImageView
+        android:layout_width="@dimen/rating_icon_size"
+        android:layout_height="@dimen/rating_icon_size"
+        app:srcCompat="@drawable/ic_rating_empty"
+        android:layout_below="@+id/lang_name_text"
+        android:layout_toEndOf="@+id/lang_rating_1_1"
+        android:id="@+id/lang_rating_1_2" />
+
+    <ImageView
+        android:layout_width="@dimen/rating_icon_size"
+        android:layout_height="@dimen/rating_icon_size"
+        app:srcCompat="@drawable/ic_rating_empty"
+        android:layout_below="@+id/lang_name_text"
+        android:layout_toEndOf="@+id/lang_rating_1_2"
+        android:id="@+id/lang_rating_1_3" />
+
+    <ImageView
+        android:layout_width="@dimen/rating_icon_size"
+        android:layout_height="@dimen/rating_icon_size"
+        app:srcCompat="@drawable/ic_rating_empty"
+        android:layout_below="@+id/lang_name_text"
+        android:layout_toEndOf="@+id/lang_rating_1_3"
+        android:id="@+id/lang_rating_1_4" />
+
+    <ImageView
+        android:layout_width="@dimen/rating_icon_size"
+        android:layout_height="@dimen/rating_icon_size"
+        app:srcCompat="@drawable/ic_rating_empty"
+        android:layout_below="@+id/lang_name_text"
+        android:layout_toEndOf="@+id/lang_rating_1_4"
+        android:id="@+id/lang_rating_1_5" />
+
+    <ImageView
+        android:layout_width="@dimen/rating_icon_size"
+        android:layout_height="@dimen/rating_icon_size"
+        app:srcCompat="@drawable/ic_rating_empty"
+        android:layout_below="@+id/lang_rating_1_1"
+        android:layout_alignParentStart="true"
+        android:id="@+id/lang_rating_2_1" />
+
+    <ImageView
+        android:layout_width="@dimen/rating_icon_size"
+        android:layout_height="@dimen/rating_icon_size"
+        app:srcCompat="@drawable/ic_rating_empty"
+        android:layout_below="@+id/lang_rating_1_2"
+        android:layout_toEndOf="@+id/lang_rating_2_1"
+        android:id="@+id/lang_rating_2_2" />
+
+    <ImageView
+        android:layout_width="@dimen/rating_icon_size"
+        android:layout_height="@dimen/rating_icon_size"
+        app:srcCompat="@drawable/ic_rating_empty"
+        android:layout_below="@+id/lang_rating_1_3"
+        android:layout_toEndOf="@+id/lang_rating_2_2"
+        android:id="@+id/lang_rating_2_3" />
+
+    <ImageView
+        android:layout_width="@dimen/rating_icon_size"
+        android:layout_height="@dimen/rating_icon_size"
+        app:srcCompat="@drawable/ic_rating_empty"
+        android:layout_below="@+id/lang_rating_1_4"
+        android:layout_toEndOf="@+id/lang_rating_2_3"
+        android:id="@+id/lang_rating_2_4" />
+
+    <ImageView
+        android:layout_width="@dimen/rating_icon_size"
+        android:layout_height="@dimen/rating_icon_size"
+        app:srcCompat="@drawable/ic_rating_empty"
+        android:layout_alignBottom="@+id/lang_rating_2_4"
+        android:layout_alignEnd="@+id/lang_rating_1_5"
+        android:id="@+id/lang_rating_2_5" />
+
+    <TextView
+        android:text="@string/lang_speach"
+        android:textSize="14dp"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/rating_icon_size"
+        android:layout_below="@+id/lang_name_text"
+        android:layout_toEndOf="@+id/lang_rating_1_5"
+        android:id="@+id/lang_speach_text" />
+
+    <TextView
+        android:text="@string/lang_writing"
+        android:textSize="14dp"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/rating_icon_size"
+        android:layout_below="@+id/lang_rating_1_5"
+        android:layout_toEndOf="@+id/lang_rating_2_5"
+        android:id="@+id/lang_writing_text" />
+</RelativeLayout>

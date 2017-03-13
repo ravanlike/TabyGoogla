@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="label_settings">Inställningar</string>
+    <string name="label_language">Språk</string>
+    <string name="action_settings">Inställningar</string>
+    <string name="tab_general">Allmän</string>
+    <string name="tab_experience">Erfarenhet</string>
+    <string name="tab_other">Brev</string>
+    <string name="action_call">Ringa</string>
+    <string name="action_sms">Texta</string>
+    <string name="action_language">Språk</string>
+    <string name="action_mail">E-Mail</string>
+    <string name="mail_subject">Employment opportunity</string>
+    <string name="exp_role_1">Praktik</string>
+    <string name="exp_role_2">Praktik</string>
+    <string name="exp_role_3">Prissättningsanalytiker</string>
+    <string name="exp_role_4">Seniorprissättningsanalytiker</string>
+    <string name="exp_comp_1">Skatteverket i Żywiec</string>
+    <string name="exp_comp_2">Räkenskapsverk BRMS sp. Zoo</string>
+    <string name="exp_comp_3">State Street Bank GmbH</string>
+    <string name="exp_comp_4">State Street Bank GmbH</string>
+
+    <string name="cover_letter">Hej,\n\n\t
+    Jag heter Marek Pasierbek och är 25 år gammal. Jag kom till Sverige för ett halvår sedan och jag bor i Farsta nu. Jag är ärlig, exakt och öppen som person.\n\n\t
+    Efter att jag hade gått klart Universitet av Ekonomi i Krakow, började jag arbeta som prissättningsanalytiker på amerikansk investmentbank. Mina föreståndare var glada av mitt arbete, så jag blev befordrad till seniorprissättningsanalytiker efter ett år.\n\n\t
+    Jag är en person som alltid försöker hjälpa mina kollegor om dom behöver det, så mina arbetskamrater frågade mig om hjälp före de frågade support på mina tidigare arbetsplatser. Jag gillar att göra mina kollegors liv lättare.\n\n\t
+    Under mina sista månader som analytiker, var upp till 80% av mina arbetsdagar reserverade för programmera. Om ni läser det här brevet mellan kl. 8 - 18, använder ni säkert något av mina verktyg.\n\n\t
+    Jag har även praktiserat på ett redovisningskontor och på polska skatteverket. Jag fick bra rekommendationer och de tyckte jag var mycket noggrann i mitt arbete.\n\n\t
+    Om vill ni se rekommendationer om mig på LinkedIn, checka optioner i meny.\n\n\t
+    Hoppas ni har blivit intresserande av mig och att jag får chansen att berätta mer om mig själv på en intervju.\n\n\t
+    Med vänliga hälsningar,\n
+    Marek Pasierbek</string>
+    <string name="lang_speach">Tal</string>
+    <string name="lang_writing">Skrift</string>
+    <string name="separator_education">Utbildning</string>
+    <string name="separator_references">Referenser</string>
+    <string name="separator_languages">Språk</string>
+
+    <string name="separator_skills">Färdigheter</string>
+    <string name="lang_english">Engelska</string>
+    <string name="lang_swedish">Svenska</string>
+    <string name="lang_polish">Polska</string>
+    <string name="edu_univ">Cracow University of Economics</string>
+    <string name="edu_major">Ekonomi och redovisning</string>
+    <string name="edu_minor">2010 - 2013: Kandidatexamen</string>
+    <string name="skill_1">Visual Basic for Applications – Avancerad</string>
+    <string name="skill_2">Java – Bas</string>
+    <string name="skill_3">MS Office (speciellt MS Excel och Access)</string>
+    <string name="skill_4">Bloomberg och Reuters terminaler</string>
+    <string name="skill_5">Kan arbeta under press</string>
+    <string name="skill_6">Stark analytisk kunskaper</string>
+    <string name="skill_7">Bra grupparbete</string>
+    <string name="skill_8">Snabb lärning</string>
+    <string name="skill_9">Körkort B</string>
+
+    <string name="skill_10">Körkort B</string>
+
+    <string name="gen_tel">Telefon:</string>
+    <string name="gen_mail">E-postadress:</string>
+    <string name="ref_role_1">Direkt chef, Senior Associate</string>
+    <string name="ref_role_3">Indirekt chef, Senior Associate</string>
+    <string name="ref_role_2">Indirekt chef, Officer</string>
+    <string name="action_linkedin">LinkedIn rekommendationer</string>
+    <string name="exp_resp_4_1">Närvara på lags eller avdelnings projekten (mest som VBA utvecklare)</string>
+    <string name="exp_resp_4_2">Förbereda precision rapporter till senior föreståndare</string>
+    <string name="exp_resp_4_3">Behandla teknisk sid av transformation till papperslöst tjänst</string>
+    <string name="exp_resp_4_4">Tilldela uppgifter till lagkamrater när föreståndare var frånvarande</string>
+    <string name="exp_resp_3_1">Prissätta aktier, obligationer, optioner eller terminer med att använda av Bloomberg, Reuters eller IDC</string>
+    <string name="exp_resp_3_3">Kontrollera prissättning gjord genom annan anställd</string>
+    <string name="exp_resp_3_2">Utveckla och implementera verktyg gjord till att förbättra tjänst</string>
+    <string name="exp_resp_3_4">Svara om kunds eller fonds revisorer frågor</string>
+    <string name="exp_resp_3_5">Undervisa mindre erfarna anställda med tjänst och övriga saker</string>
+    <string name="exp_resp_2_1">Registrera kostdokumenter och konto utdrag till bokföring programvara</string>
+    <string name="exp_resp_2_2">Hjälpa anställde att göra olika uppdrag</string>
+    <string name="exp_resp_2_3">Rensa upp bokföring dokumentation</string>
+    <string name="exp_resp_1_1">Registrera mottagna dokument, förbereda rapporter om dem</string>
+    <string name="exp_resp_1_2">Rätta legitimitet av mottagna skattedeklarationskorrektion</string>
+
+    <string name="exp_resp_1_3">Rätta legitimitet av mottagna skattedeklarationskorrektion</string>
+
+</resources>

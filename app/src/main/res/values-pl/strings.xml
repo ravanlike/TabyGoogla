@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="label_settings">Ustawienia</string>
+    <string name="label_language">Język</string>
+    <string name="action_settings">Ustawienia</string>
+    <string name="tab_general">Ogólne</string>
+    <string name="tab_experience">Doświadczenie</string>
+    <string name="tab_other">List Motywacyjny</string>
+    <string name="action_call">Zadzwoń</string>
+    <string name="action_sms">SMS</string>
+    <string name="action_exit">Zamknij</string>
+    <string name="action_language">Język</string>
+    <string name="action_mail">E-Mail</string>
+    <string name="mail_subject">Możliwość zatrudnienia</string>
+    <string name="edu_univ">Uniwersytet Ekonomiczny w\u00A0Krakowie</string>
+    <string name="edu_major">Finanse i rachunkowość</string>
+    <string name="edu_minor">2010 - 2013: Licencjat</string>
+    <string name="action_linkedin">Rekomendacje na LinkedIn</string>
+    <string name="exp_role_1" translatable="false">Stażysta</string>
+    <string name="exp_comp_4">State Street Bank GmbH</string>
+    <string name="exp_comp_3">State Street Bank GmbH</string>
+    <string name="exp_comp_1">Urząd Skarbowy w Żywcu</string>
+    <string name="exp_comp_2">Biuro rachunkowe BRMS sp. z o.o.</string>
+    <string name="exp_resp_1_2">Weryfikacja zasadności składanych korekt deklaracji podatkowych.</string>
+    <string name="exp_resp_1_1">Ewidencja przyjętych dokumentów, tworzenie raportów i rejestrów ich dotyczących.</string>
+    <string name="exp_resp_1_3">Rejestracja i obsługa wniosków od instytucji zewnętrznych (ZUS, komornicy sądowi).</string>
+    <string name="exp_resp_2_1">Wprowadzanie dokumentów kosztowych, zapisów księgowych, wyciągów bankowych, raportów kasowych do oprogramowania CDN XL (Comarch ERP).</string>
+    <string name="exp_resp_2_2">Rozliczanie zaliczek pracowniczych.</string>
+    <string name="exp_resp_2_3">Porządkowanie dokumentacji księgowej.</string>
+    <string name="exp_resp_3_1">Wycena akcji, obligacji, kontraktów futures oraz opcyjnych przy pomocy platform Bloomberga, Reutersa lub IDC.</string>
+    <string name="exp_resp_3_2">Sprawdzanie dokładności wycen wykonanych przez innych pracowników.</string>
+    <string name="exp_resp_3_3">Tworzenie i wdrażanie narzędzi służących redukowaniu ryzyka lub oszczędności czasu.</string>
+    <string name="exp_resp_3_4">Odpowiadanie na zapytania klientów, księgowych lub audytu dotyczących procesu wyceny.</string>
+    <string name="exp_resp_3_5">Nauczanie mniej doświadczonych pracowników (procesu wyceny, obsługi MS Office i terminali, programowania itp.).</string>
+    <string name="exp_resp_4_1">Udział w projektach na szczeblu zespołu czy też całego departamentu (przeważnie jako programista VBA).</string>
+    <string name="exp_resp_4_2">Przygotowywanie raportów dot. jakości dla managerów wyższego stopnia oraz nadzoru (wewnętrznego).</string>
+    <string name="exp_resp_4_3">Zabezpieczenie strony technicznej transformacji procesu z drukowanego do kompletnie elektronicznego.</string>
+    <string name="exp_resp_4_4">Przydzielanie obowiązków członkom zespołu oraz dopilnowanie wykonania wszystkich zadań podczas nieobecności przełożonego.</string>
+    <string name="exp_role_2">Stażysta</string>
+    <string name="exp_role_4">Starszy Administrator ds. Wyceny (associate 2)</string>
+    <string name="exp_role_3">Administrator ds. Wyceny (associate 1)</string>
+    <string name="gen_mail">Adres E-Mail</string>
+    <string name="gen_tel">Telefon:</string>
+    <string name="lang_english">Angielski</string>
+    <string name="lang_polish">Polski</string>
+    <string name="lang_speach">Mowa</string>
+    <string name="lang_swedish">Szwedzki</string>
+    <string name="lang_writing">Pismo</string>
+    <string name="separator_education">Wykształcenie</string>
+    <string name="separator_languages">Języki obce</string>
+    <string name="separator_references">Referencje</string>
+    <string name="separator_skills">Umiejętności</string>
+    <string name="ref_role_1">Bezpośrednia przełożona, Senior Associate</string>
+    <string name="ref_role_2">Pośredni przełożony, Officer</string>
+    <string name="ref_role_3">Pośredni przełożony, Senior Associate</string>
+    <string name="skill_1">Visual Basic for Applications - st. zaawansowany.</string>
+    <string name="skill_10">Java - st. podstawowy.</string>
+    <string name="skill_2">MS Office (w szczególności MS Excel i Access)</string>
+    <string name="skill_3">Terminale Bloomberga i Reutersa.</string>
+    <string name="skill_5">Odporność na stres, umiejętność pracy pod presją czasu.</string>
+    <string name="skill_6">Szczegółowość.</string>
+    <string name="skill_7">Myślenie analityczne.</string>
+    <string name="skill_8">Umiejętność pracy w zespole a także samodzielnie.</string>
+    <string name="skill_9">Szybka nauka.</string>
+    <string name="skill_4">Doświadczenie w pracy w administracji funduszu inwestycyjnego.</string>
+    <string name="cover_letter">Szanowny Panie, Szanowna Pani,\n\n\t
+Jestem obecnie poszukuje możliwości rozwoju kariery zawodowej w sektorze finansowym, a jeśli istnieje taka możliwość chętnie bym omówić z wami, możliwość łączenia me firmę.\n\n\t
+Zacząłem pracować dla State Street Banku tuż po ukończeniu studiów na Akademii Ekonomicznej w Krakowie. Ponieważ byłem zainteresowany komputerami od czasu dziecko, bardzo szybko byłem uważany za iść do osoby, w przypadku jakichkolwiek problemów sprzętu / oprogramowania i moi członkowie zespołu w większości przypadków korzystne, żeby mnie zapytać o pomoc przed otwarciem bilet dla działu IT , Naprawdę podoba mi się, że mój, a inne życie łatwiejszym, dlatego, ponieważ moich pierwszych miesięcy w State Street I zostały tworzenie makr i narzędzi służących do zmniejszenia ryzyka operacyjnego i czas spędzony.\n\n\t
+Z powodu moich zdobytych umiejętności, będą się rozwijać i wolontariuszy w sprawach handlowych, jakie biorą udział w projektach mających wpływ na cały dział (~ 120 osób). Dzięki tej okazji mam do wzięcia udziału w projektach inicjacja, planowanie, rozwój i wdrażanie. Jestem chętny do nauki wszystkiego, co może poprawić jakość pracy. Mam zaufanie zyskał mój przełożony i kilka razy reprezentował naszego zespołu / działu na spotkania z audytorami wewnętrznymi i zewnętrznymi (EY).\n\n\t
+Bardzo podoba mi się praca na dużych danych, dlatego byłem odpowiedzialny za przygotowanie raportów dla kierownictwa i nadzoru (UK za oficerów oddziałów), w oparciu o dane zgromadzone na dobę dotyczącą każdego zadania każdego klienta w każdym zespole w obrębie działu.\n\n\t
+Inną rzeczą, jaką cieszył się w moim poprzednim zadaniem było opracowanie VBA. Jak moje umiejętności były uprawiane, opiekunem lub funkcjonariusza przydzielił mnie do bardziej ambitnych projektów. W ostatnich miesiącach, jak starszy analityk cenowej, do 80% mojego dziennego porządku obrad było zarezerwowane dla programowania. Jeśli czytasz ten list od 6 do 20 CET ktoś niemiły w tej chwili jest za pomocą narzędzia / rozwiązania zrobiłem. Obecnie uczę Java, myśląc o VB .NET w przyszłości, ale mogę przełączyć się na inny język, który może być korzystne dla Twojej firmy.\n\n\t
+Wcześniej miałem dwa staże w biurze rachunkowym oraz Polskiej Skatteverket. W obu mam reputację osoby, która jest wiarygodna, skrupulatnie i dokładnie robi swoje zadania także moją kreatywność w rozwiązywaniu problemów oraz umiejętność współpracy z innymi pracownikami zostały zauważone.\n\n\t
+Zalecenia na stronie LinkedIn proszę sprawdzić opcję w menu.\n\n\t
+Doszedłem do Szwecji w sierpniu tego roku, mój szwedzki poprawia codziennie jednak wymaga jeszcze trochę czasu, aby mówić płynnie. Jestem przekonany, że pracuje dla organizacji mogą przynieść mi więcej możliwości, aby rozwijać się. Opierając się na krótkim opisem moich wcześniejszych doświadczeń myślę, że mogę być cennym nabytkiem w firmie. W tym względzie chciałbym docenić okazję spotkać się z wami i dyskutować o moich kwalifikacjach i możliwość przyłączenia się organizacji. Jeśli potrzebujesz dodatkowych informacji, prosimy o kontakt ze mną.\n\n\t
+Z poważaniem,\n
+Marek Jan Pasierbek</string>
+
+</resources>

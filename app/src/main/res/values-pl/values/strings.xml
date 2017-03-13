@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">TabyGoogla</string>
+    <string name="label_app">CV</string>
+    <string name="label_settings">Settings</string>
+    <string name="label_language">Language</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="tab_general">General</string>
+    <string name="tab_experience">Experience</string>
+    <string name="tab_other">Other</string>
+    <string name="action_call">Call</string>
+    <string name="action_sms">SMS</string>
+    <string name="action_exit">Exit</string>
+    <string name="action_language">Language</string>
+    <string name="tel_number">+46765957989</string>
+    <string name="mail_adress">ravanlike@gmail.com</string>
+    <string name="action_mail">E-Mail</string>
+    <string name="mail_subject">Employment opportunity</string>
+    <string name="radio_english">English</string>
+    <string name="radio_swedish">Svenska</string>
+    <string name="radio_polish">Polski</string>
+    <string name="radio_arabic">/.,/.,/</string>
+
+</resources>

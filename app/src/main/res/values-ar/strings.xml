@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_call">مكالمة</string>
+    <string name="action_exit">خروج</string>
+    <string name="action_language">لغة</string>
+    <string name="action_mail">البريد الإلكتروني</string>
+    <string name="action_settings">إعدادات</string>
+    <string name="action_sms">رسالة قصيرة</string>
+    <string name="label_language">لغة</string>
+    <string name="label_settings">إعدادات</string>
+    <string name="mail_subject">فرصة توظيف</string>
+    <string name="tab_experience">تجربة</string>
+    <string name="tab_general">جنرال لواء</string>
+    <string name="tab_other">غطاء الرسالة</string>
+    <string name="exp_role_1">المتدرب</string>
+    <string name="exp_role_3">التسعير محلل</string>
+    <string name="exp_role_2">المتدرب</string>
+    <string name="exp_comp_2">مكتب المحاسبة BRMS ليرة سورية. حديقة حيوان</string>
+    <string name="exp_comp_1">مكتب الضرائب في جيفيتس</string>
+    <string name="exp_comp_3">State Street Bank GmbH</string>
+    <string name="exp_comp_4">State Street Bank GmbH</string>
+    <string name="exp_role_4">كبار محلل التسعير</string>
+    <string name="lang_speach">سبيتش</string>
+    <string name="lang_swedish">السويدين</string>
+    <string name="lang_writing">جاري الكتابة</string>
+    <string name="exp_resp_1_3">تسجيل ومعالجة الأشكال التي بعث بها المؤسسات الخارجية (أي وكالة التأمين الاجتماعي)</string>
+    <string name="exp_resp_1_2">صحة التحقق من تلقى التصحيحات البيان الضريبي</string>
+    <string name="exp_resp_1_1">إعداد السجلات وإحالة الوثائق الواردة</string>
+    <string name="exp_resp_2_3">التوفيق بين وثائق المحاسبة</string>
+    <string name="exp_resp_2_2">حساب للتقدم الموظف والسجلات المحاسبية</string>
+    <string name="exp_resp_2_1">دخول الوثائق التكلفة، وبيانات البنوك، والأصول الثابتة لبرامج المحاسبة كندي XL (Comarch ERP)</string>
+    <string name="exp_resp_3_5">أعضاء هيئة التدريس الأقل خبرة مع العمليات التجارية ومسائل إضافية</string>
+    <string name="exp_resp_3_4">حل العملاء والمحاسبين صندوق استفسارات بشأن التسعير</string>
+    <string name="exp_resp_3_3">التحقق من جودة التقييمات التي يوظف آخرين</string>
+    <string name="exp_resp_3_2">تطوير وأدوات المبذولة لتحسين العملية من خلال الوقت الذي يقضيه في تنفيذ والحد من المخاطر</string>
+    <string name="exp_resp_3_1">تقييم أسهم والسندات والعقود الآجلة والخيارات والتحقق سعرها على بلومبرغ، رويترز أو IDC</string>
+    <string name="exp_resp_4_4">توزيع المسؤوليات على أعضاء الفريق وضمان فعالية الفريق خلال غياب المشرف</string>
+    <string name="exp_resp_4_3">تغطي الجانب التقني من التحول إلى أعمال ورقية</string>
+    <string name="exp_resp_4_2">إعداد دقة والجداول الزمنية التقارير للإدارة العليا والإشراف</string>
+    <string name="exp_resp_4_1">المشاركة في مشاريع واسعة فريق وقسم (معظمها VBA المطور)</string>
+    <string name="action_linkedin">توصيات ينكدين</string>
+    <string name="gen_mail">عنوان البريد الإلكتروني</string>
+    <string name="gen_tel">الهاتف:</string>
+    <string name="skill_10">Java - بسيطة</string>
+    <string name="skill_9">متعلم سريع</string>
+    <string name="skill_8">مهارات العمل الجماعي</string>
+    <string name="skill_7">* مهارات تحليلية قوية</string>
+    <string name="skill_6">محب للتفاصيل .</string>
+    <string name="skill_5">القدرة على العمل تحت ضغط الوقت</string>
+    <string name="skill_4">خبرة في العمل في إدارة الصناديق</string>
+    <string name="skill_3">بلومبرج ورويترز المحطات</string>
+    <string name="skill_2">مايكروسوفت أوفيس (وخاصة مايكروسوفت إكسل والوصول)</string>
+    <string name="skill_1">Visual Basic for Applications - للتطبيقات</string>
+    <string name="edu_major">المالية والمحاسبة</string>
+    <string name="edu_minor">2010 - 2013: Bachelor degree</string>
+    <string name="edu_univ">جامعة كراكوف الاقتصاد</string>
+    <string name="separator_education">التعليم</string>
+    <string name="separator_languages">اللغات</string>
+    <string name="separator_skills">مهارات</string>
+    <string name="separator_references">المراجع:</string>
+    <string name="lang_english">الإنجليزية</string>
+    <string name="lang_polish">البولندين</string>
+    <string name="ref_role_1">المدير المباشر، مساعد أول</string>
+    <string name="ref_role_2">مدير غير مباشر، موظف</string>
+    <string name="ref_role_3">مدير غير مباشر، مساعد أول</string>
+    <string name="cover_letter">سيدي أو سيدتي،\n\n\t
+أنا أبحث حاليا عن فرص وظيفية في القطاع المالي، وإذا كان هناك مثل هذا الخيار وأود أن مناقشة بكل سرور معكم، وإمكانية مني الانضمام لشركتك.\n\n\t
+لقد بدأت العمل في بنك ستيت ستريت بعد الانتهاء من دراستي في جامعة كراكوف للاقتصاد. لأنني كنت مهتما في أجهزة الكمبيوتر منذ طفل، بسرعة جدا لقد تم اعتبار الذهاب إلى شخص في حالة حدوث أي مشاكل في الأجهزة / البرمجيات ويفضل أعضاء فريقي في معظم الحالات أن يسألني عن مساعدة قبل فتح تذكرة لتكنولوجيا المعلومات قسم . أنا حقا مثل جعل بلدي وغيرها الحياة أسهل، لهذا السبب، منذ بلدي أشهر الأولى في ستيت ستريت لقد تم إنشاء وحدات الماكرو وأدوات تهدف إلى الحد من المخاطر التشغيلية والوقت الذي تستغرقه.\n\n\t
+بسبب المهارات المكتسبة بلدي، وتطوير والمتطوعين في شؤون الإدارة، لقد تم يشارك في مشاريع تؤثر على قسم كامل (~ 120 شخصا). وبفضل هذه الفرصة لقد للمشاركة في مشاريع المبادرة والتخطيط والتطوير والتنفيذ. وأنا حريصة على تعلم أي شيء يمكن أن تحسين نوعية العمل. لقد اكتسبت ثقتي المشرف وعدة مرات تمثيل فريقنا / الإدارة على عقد اجتماعات مع المدققين الداخليين أو الخارجيين (EY).\n\n\t
+أنا أحب العمل مع البيانات الكبيرة، لهذا السبب كنت مسؤولا عن إعداد التقارير للإدارة العليا والإشراف (ضباط فرع المملكة المتحدة)، مستندة على البيانات التي تم جمعها يوميا بشأن كل مهمة من كل عميل في كل فريق داخل القسم.
+وكان آخر شيء لقد استمتعت في دور تقريري السابق التنمية VBA. كما نمت مهاراتي، المشرف أو المسؤول كلفني إلى مشاريع أكثر تحديا. في الأشهر الأخيرة كمحلل التسعير كبار، خصصت ما يصل الى 80٪ من جدول أعمالي اليومي للبرمجة. إذا كنت تقرأ هذه الرسالة بين 06:00 و20:00 CET، شخص شرس في هذه اللحظة يستخدم أداة / الحل الذي أدليت به. حاليا أنا جافا التعلم، التفكير في VB. NET في المستقبل، ولكن يمكنني أن التحول إلى أي لغة قد تكون مفيدة لشركتك.\n\n\t
+سابقا كان لي اثنين من التدريب، في مكتب المحاسبة والبولندية Skatteverket. في كلا حصلت على سمعة بأنها شخص غير موثوق بها، ودقيقا وبعناية القيام بمهامها أيضا بلدي الإبداع في حل المشكلات والقدرة على التعاون مع الموظفين الآخرين قد لاحظت.\n\n\t
+للتوصيات على LinkedIn موقع يرجى التحقق من خيار في القائمة.\n\n\t
+جئت إلى السويد في اغسطس من هذا العام، ويحسن بي السويدية كل يوم ولكن لا يزال يحتاج إلى بعض الوقت ليكون بطلاقة. وأعتقد جازما أن العمل لمؤسستك يمكن أن يجلب لي المزيد من الفرص لتطوير نفسي. مستندة على وصف مختصر لتجربتي السابقة أعتقد أنني قد يكون رصيدا قيما داخل شركتك. وفي هذا الصدد، أود أن نقدر الفرصة أن ألتقي بكم ومناقشة حول مؤهلاتي وإمكانية أن أنضم إليكم المنظمة. يجب عليك الحصول على أي معلومات إضافية، لا تترددوا في الاتصال بي.\n\n\t
+المخلص لك،\n
+Marek Pasierbek</string>
+</resources>

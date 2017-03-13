@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent" android:layout_height="wrap_content">
+
+    <ImageView android:id="@+id/role_icon"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+         />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/role_title"
+        android:textSize="20sp"
+        android:layout_alignParentTop="true"
+        android:layout_toEndOf="@+id/role_icon" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/role_company"
+        android:textSize="15sp"
+        android:layout_above="@+id/role_time"
+        android:layout_toEndOf="@+id/role_icon" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/role_time"
+        android:layout_alignBottom="@+id/role_icon"
+        android:layout_toEndOf="@+id/role_icon" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/ic_action_call"
+        android:layout_above="@+id/role_company"
+        android:layout_alignParentEnd="true"
+        android:id="@+id/role_arrow" />
+
+
+</RelativeLayout>

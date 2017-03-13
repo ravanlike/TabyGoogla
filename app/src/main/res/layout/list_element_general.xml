@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" >
+
+    <ImageView android:id="@+id/gen_icon"
+        android:src="@mipmap/ic_gen_face"
+        android:layout_width="125dp"
+        android:layout_height="200dp"
+        android:gravity="center_vertical"
+        android:paddingTop="5dp"
+        android:paddingStart="5dp"
+        android:paddingEnd="5dp"
+        android:paddingBottom="5dp"
+        />
+
+    <TextView
+        android:text="@string/gen_name"
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
+        android:gravity="center_vertical"
+        android:textSize="28sp"
+        android:layout_alignParentTop="true"
+        android:layout_toEndOf="@+id/gen_icon"
+        android:paddingStart="5dp"
+        android:paddingEnd="5dp"
+        android:id="@+id/gen_name"/>
+
+    <TextView
+        android:text="@string/mail_adress"
+        android:textSize="17sp"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_toEndOf="@+id/gen_icon"
+        android:layout_alignBottom="@+id/gen_icon"
+        android:paddingStart="5dp"
+        android:paddingEnd="5dp"
+        android:paddingBottom="5dp"
+        android:id="@+id/gen_mail_address" />
+
+    <TextView
+        android:text="@string/gen_mail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/gen_mail_address"
+        android:layout_toEndOf="@+id/gen_icon"
+        android:paddingStart="5dp"
+        android:paddingEnd="5dp"
+        android:id="@+id/gen_mail" />
+
+    <TextView
+        android:text="@string/tel_number"
+        android:textSize="17sp"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_above="@id/gen_mail"
+        android:layout_toEndOf="@+id/gen_icon"
+        android:paddingStart="5dp"
+        android:paddingEnd="5dp"
+        android:id="@+id/gen_tel_num" />
+
+    <TextView
+        android:text="@string/gen_tel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/gen_tel_num"
+        android:layout_toEndOf="@+id/gen_icon"
+        android:paddingStart="5dp"
+        android:paddingEnd="5dp"
+        android:id="@+id/gen_tel" />
+
+</RelativeLayout>
