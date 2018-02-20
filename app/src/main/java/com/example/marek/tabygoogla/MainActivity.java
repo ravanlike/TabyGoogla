@@ -140,7 +140,7 @@ public class MainActivity extends AppCompatActivity{
 
                 try {
 
-                    Uri uriUrl = Uri.parse("https://www.linkedin.com/in/marek-pasierbek-a8992ba7#recommendations");
+                    Uri uriUrl = Uri.parse(getString(R.string.url_linkedin));
                     Intent launchBrowser = new Intent(Intent.ACTION_VIEW, uriUrl);
                     startActivity(launchBrowser);
 

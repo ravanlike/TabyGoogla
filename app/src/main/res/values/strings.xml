@@ -13,8 +13,22 @@
     <string name="action_sms">SMS</string>
     <string name="action_exit">Exit</string>
     <string name="action_language">Language</string>
-    <string name="tel_number" translatable="false">+46765957989</string>
-    <string name="mail_adress" translatable="false">pasierbek.marek@gmail.com</string>
+    <string name="tel_number" translatable="false">+46000000000</string> // temp
+    <string name="mail_adress" translatable="false">0000000@gmail.com</string> // temp
+    <string name="gen_name" translatable="false">0000000</string> //imie nazwisko
+    <string name="gen_tel">Telephone:</string>
+    <string name="gen_mail">E-Mail Address:</string>
+    <string name="ref_name_1" translatable="false">Karolina</string> //temp
+    <string name="ref_name_2" translatable="false">Michael</string> //temp
+    <string name="ref_name_3" translatable="false">Grzegorz</string> //temp
+    <string name="ref_tel_1" translatable="false">+48 0</string> //temp
+    <string name="ref_tel_2" translatable="false">+48 0</string> //temp
+    <string name="ref_tel_3" translatable="false">+48 0</string> //temp
+    <string name="ref_role_1">Direct manager, Officer</string>
+    <string name="ref_role_2">Indirect manager, Officer</string>
+    <string name="ref_role_3">Indirect manager, Officer</string>
+    <string name="action_linkedin">Linkedin recommendations</string>
+    <string name="url_linkedin" translatable="false">https://www.linkedin.com/00000000</string> //temp
     <string name="action_mail">E-Mail</string>
     <string name="mail_subject">Employment opportunity</string>
     <string name="radio_english" translatable="false">English</string>
@@ -68,19 +82,6 @@ Marek Jan Pasierbek</string>
     <string name="skill_8">Teamwork skills</string>
     <string name="skill_9">Fast learner</string>
     <string name="skill_10">Java - Basic</string>
-    <string name="gen_name" translatable="false">Marek Pasierbek</string>
-    <string name="gen_tel">Telephone:</string>
-    <string name="gen_mail">E-Mail Address:</string>
-    <string name="ref_name_1" translatable="false">Karolina Gizicka</string>
-    <string name="ref_name_2" translatable="false">Michael Entwistle</string>
-    <string name="ref_name_3" translatable="false">Grzegorz Mirek</string>
-    <string name="ref_tel_1" translatable="false">+48 512 244 698</string>
-    <string name="ref_tel_2" translatable="false">+48 729 427 781</string>
-    <string name="ref_tel_3" translatable="false">+48 607 677 584</string>
-    <string name="ref_role_1">Direct manager, Senior Associate</string>
-    <string name="ref_role_2">Indirect manager, Officer</string>
-    <string name="ref_role_3">Indirect manager, Senior Associate</string>
-    <string name="action_linkedin">Linkedin recommendations</string>
     <string name="exp_resp_4_1">Participating in team and department wide projects (mostly as VBA developer)</string>
     <string name="exp_resp_4_2">Preparing accuracy and timelines reports for senior management and oversight</string>
     <string name="exp_resp_4_3">Covering technical side of transformation to paperless business</string>
